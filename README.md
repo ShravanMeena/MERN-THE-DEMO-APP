@@ -1,4 +1,4 @@
-# API guide for Network Subscription Payment
+# API guide
 
 
 ## Register on platform
