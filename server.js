@@ -37,9 +37,9 @@ fs.readdirSync("./routes").map((r) =>
 );
 
 //   route
-app.get("/api", (req, res) => {
+app.get("/", (req, res) => {
   res.json({
-    data: "Welcome to the world!",
+    data: "Welcome to the DEMO project!",
   });
 });
 
