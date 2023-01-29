@@ -3,7 +3,7 @@
 
 ## Register on platform
 
-```Endpoint:- api_endpoint/api/register```
+```Endpoint:- thedemo.up.railway.app/api/register```
 
 
 ```Methods allowed:- POST```
@@ -43,7 +43,7 @@ Error Response = {
 
 ## Login on platform
 
-```Endpoint:- api_endpoint/api/login```
+```Endpoint:- thedemo.up.railway.app/api/login```
 
 
 ```Methods allowed:- POST```
@@ -95,7 +95,7 @@ Error Response = {
 
 ## Change/Reset password on platform
 
-```Endpoint:- api_endpoint/api/reset-password```
+```Endpoint:- thedemo.up.railway.app/api/reset-password```
 
 
 ```Methods allowed:- POST```
